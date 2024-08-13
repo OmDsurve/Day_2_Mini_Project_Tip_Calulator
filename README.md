@@ -1,1 +1,2 @@
 # Day_2_Mini_Project_Tip_Calulator
+This Python project is a tip calculator that helps users split a bill and include a tip. It collects the total bill amount, tip percentage, and number of people, then calculates and divides the total cost accordingly. The result is rounded to two decimal places and displayed, making it easy to determine each person's share. Ideal for group dining or any shared expense scenario.
